@@ -1,7 +1,7 @@
-<style>
+style
 
-    h1 {
-        color: red;
+    h1{
+        color:aqua
     }
 
 img {
@@ -14,10 +14,11 @@ img {
     background-color: blanchedalmond;
     padding: 50px;
     border: 10px solid rosybrown;
+    margin: 50px;
 }
 
 #spanId {
     font-size: 18px;
     margin: 50px;
+
 }
-</style>
